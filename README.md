@@ -1,11 +1,12 @@
 # Last-Cube-Standinig
 
-Top-Down Game Developed Using Unity Engine.
+Top-Down Based Game Developed Using Unity Engine.
 
 A Game Of A Cube Fighting The Ghosts Which Killed
 Its Family And Conquered Its Village.
-A Rough Battle To Death...
-So, Are You Up For It?
+A Stressful Rough Battle To Death...
+
+How Many Ghosts Can You Hunt?
 
 ![Choose](https://user-images.githubusercontent.com/60258792/88644425-3c793d00-d0c3-11ea-9229-57af66b8b215.gif)
 
