@@ -2,8 +2,8 @@
 
 Top-Down Based Game Developed Using Unity Engine.
 
-A Game Of A Cube Fighting The Ghosts Which Killed
-Its Family And Conquered Its Village.
+A Game Of A Cube Fighting The Ghosts That Killed
+Its Family And Conquered The Village.
 A Stressful Rough Battle To Death...
 
 How Many Ghosts Can You Hunt?
