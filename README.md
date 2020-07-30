@@ -8,7 +8,7 @@ A Stressful Rough Battle To Death...
 
 How Many Ghosts Can You Hunt?
 
-     https://trello.com/b/7vGNkBLB/last-cube-standing
+   https://trello.com/b/7vGNkBLB/last-cube-standing
 
 
 ![Choose](https://user-images.githubusercontent.com/60258792/88644425-3c793d00-d0c3-11ea-9229-57af66b8b215.gif)
