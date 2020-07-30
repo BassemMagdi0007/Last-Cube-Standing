@@ -8,6 +8,9 @@ A Stressful Rough Battle To Death...
 
 How Many Ghosts Can You Hunt?
 
+     https://trello.com/b/7vGNkBLB/last-cube-standing
+
+
 ![Choose](https://user-images.githubusercontent.com/60258792/88644425-3c793d00-d0c3-11ea-9229-57af66b8b215.gif)
 
 Normal Mode GamePlay...
@@ -19,4 +22,4 @@ Black & White Mode GamePlay...
 ![Dark](https://user-images.githubusercontent.com/60258792/88644592-73e7e980-d0c3-11ea-9203-b56434e4cf39.gif)
 
 
-  https://trello.com/b/7vGNkBLB/last-cube-standing
+
