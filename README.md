@@ -1,6 +1,6 @@
 # Last-Cube-Standinig
 
-Top-Down Based Game Developed Using Unity Engine.
+Top-Down Based Desktop Game Developed Using Unity Engine.
 
 A Game Of A Cube Fighting The Ghosts That Assassinated Its Geometric Family And Conquered The Village.
 A Stressful Rough Battle To Death...
